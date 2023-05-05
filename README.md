@@ -157,6 +157,5 @@ No known bugs at this time.
 Kasumba Raymond - [Github](https://github.com/kraymond1738) / [Twitter](https://twitter.com/KRaymond1439)  
 Salome Bassey - [Github](https://github.com/lomsey41) / [Twitter](https://twitter.com/lomsey41)  
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
